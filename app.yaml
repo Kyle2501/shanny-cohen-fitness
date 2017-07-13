@@ -19,5 +19,6 @@ handlers:
 - url: /pics
   static_dir: pics
 
+
 - url: /.*
   script: shanny-cohen-fitness.app
